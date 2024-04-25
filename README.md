@@ -1,2 +1,2 @@
 # actividadClaseFork
-##Esta es una actividad  hecha en clase de entornos de desarrollo.
+Esta es una actividad  hecha en clase de entornos de desarrollo.
